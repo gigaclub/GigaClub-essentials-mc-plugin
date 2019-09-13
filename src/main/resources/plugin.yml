@@ -1,0 +1,8 @@
+name: GigaClubEssentials
+version: ${project.version}
+main: gigaclubessentials.gigaclubessentials.GigaClubEssentials
+api-version: 1.13
+
+commands:
+  flyspeed:
+    description: /flyspeed <1-10>
