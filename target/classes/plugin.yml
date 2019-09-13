@@ -1,5 +1,5 @@
 name: GigaClub-Essentials
-version: ${project.version}
+version: 1.0-SNAPSHOT
 main: gigaclubessentials.gigaclubessentials.Main
 api-version: 1.13
 

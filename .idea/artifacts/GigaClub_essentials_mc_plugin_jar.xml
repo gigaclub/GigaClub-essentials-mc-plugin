@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GigaClub-essentials-mc-plugin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GigaClub_essentials_mc_plugin_jar</output-path>
+    <root id="archive" name="GigaClub-essentials-mc-plugin.jar">
+      <element id="module-output" name="GigaClub-essentials-mc-plugin" />
+    </root>
+  </artifact>
+</component>
